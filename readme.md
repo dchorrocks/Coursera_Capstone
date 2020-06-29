@@ -1,2 +1,3 @@
-# Segmenting-and-Clustering-Neighborhoods-in-Toronto
-Segmenting and Clustering Neighborhoods in Toronto_IBM Data Science Capstone Project_Week 3
+# The Battle of the Neighborhoods
+## IBM Capstone Objectives:
+This project, and associated files, were produced as to meet the final objectives of Coursera's IBM Applied Data Science Capstone Certificate program. The following sections are the objectives in meeting this criteria.
